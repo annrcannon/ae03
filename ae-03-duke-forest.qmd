@@ -1,6 +1,9 @@
 ---
 title: "AE 03: Duke Forest + data visualization"
-editor: visual
+editor: source
+format:
+  html:
+    embed-resources: true
 ---
 
 ```{r}
